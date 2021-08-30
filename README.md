@@ -19,8 +19,8 @@ In this experiment there are total of 9 features and 398 records. It is computat
   <li>Data Cleaning</li>
     <ul>
       <li> Firstly, we check for the basic information about the dataset provided. We managed to sort all the information in correct manner and analyze the info such as number of columns and rows (features and records) </li>
-         <img src=" "/>
+         <img src="https://github.com/Divenesh/CPC251-Assignment-Part-2/blob/main/1st%20picture.PNG "/>
       <li>Secondly, we have checked for the any of the missing values. We found there is no any missing values in the data. </li>
-         <img src=" " />
+         <img src="https://github.com/Divenesh/CPC251-Assignment-Part-2/blob/main/2nd%20picture.PNG" />
     </ul>
  </ol>
